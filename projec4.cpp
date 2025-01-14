@@ -9,6 +9,8 @@ class rectangle
     public:
     rectangle(int Lenght , int Width )
     {
+        /*here u can put a counter so instead of the user put the name of rectangl any time the user 
+        declare a objet will name 1 and counter++ */
         lenght = Lenght ;
         width = Width ;
 
